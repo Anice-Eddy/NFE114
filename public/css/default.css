@@ -1,0 +1,15 @@
+section#main {
+    background-color: aqua;
+}
+
+header {
+    background-color: blueviolet;
+}
+
+footer {
+    background-color: darkgray;
+}
+
+div#erreurs {
+    background-color: red;
+}

@@ -1,0 +1,2 @@
+g = pull --all
+p = push -u
